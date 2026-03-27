@@ -10,13 +10,13 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://github.com/ibrahimqatar/iTamim/releases/download/4.1/iTamim_4.1_decrypted.ipa</string>
+<string>https://github.com/ibrahimqatar/iTamim/releases/download/4.1/iTamim_4.1_resigned.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>ibrahim.iTamim</string>
+<string>ibrahim.iTamim.XPH9R9CKFE</string>
 <key>bundle-version</key>
 <string>4.1</string>
 <key>kind</key>
