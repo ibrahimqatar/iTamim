@@ -16,7 +16,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>ibrahim.iMuslim.TestFlight</string>
+<string>ibrahim.iMuslim</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
